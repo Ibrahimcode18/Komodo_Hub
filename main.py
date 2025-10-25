@@ -3,7 +3,7 @@ from website import create_app
 app = create_app()
 
 if __name__ == '__main__':
-    app.run(debug=True) #remove debug = true, what it does is that for any change we make it automatically restarts the server which is only good during bbuild up of the website
+    app.run() #remove debug = true, what it does is that for any change we make it automatically restarts the server which is only good during bbuild up of the website
 
 
 
