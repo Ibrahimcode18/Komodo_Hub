@@ -4,22 +4,6 @@ A comprehensive web-based platform designed to create an interconnected communit
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [User Roles and Permissions](#user-roles-and-permissions)
-- [Core Features by Role](#core-features-by-role)
-- [Installation & Setup](#installation--setup)
-- [Security Features](#security-features)
-- [Objectives](#objectives)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 🎯 Overview
 
 Komodo Hub is an interactive, multi-tenant web application that serves as a centralized hub for organizations to manage their communities, share educational articles about endangered species, and provide interactive learning through games and discussions. The platform emphasizes conservation awareness through content about species like Komodo dragons, Sumatran tigers, Javan rhinoceros, and other endangered animals.
